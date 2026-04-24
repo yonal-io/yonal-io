@@ -3,7 +3,7 @@
 B.Sc. Candidate in Computer Science and Licensed Pilot. I apply the operational discipline, checklist-driven precision, and systems-thinking of aviation to software engineering. Passionate about building secure, reliable web architecture and bridging the gap between low-level systems and modern product development.
 
 ## 🛠️ Technical Stack
-* **Languages:** TypeScript, JavaScript, Python, C++, Java, SQL, PHP
+* **Languages:** Python, TypeScript, C++, Java, SQL, PHP
 * **Technologies:** React, Node.js, Git, Linux/Unix, Bash
 * **Focus Areas:** Full-Stack Development, Systems Security, Reliability Engineering
 
