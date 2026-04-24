@@ -1,8 +1,6 @@
 # Hi! I'm Yonah
-<br>
 
-- 🌍 Based in Montreal, Canada
-- 🚀 Studying Computer Science at [UdeM](https://diro.umontreal.ca/english/home/)
+B.Sc. Candidate in Computer Science and Licensed Pilot. I apply the operational discipline, checklist-driven precision, and systems-thinking of aviation to software engineering. Passionate about building secure, reliable web architecture and bridging the gap between low-level systems and modern product development.
 
 <br>
 
